@@ -74,36 +74,3 @@ npm start
 2. Click "Take Interview" to start the mock interview session.
 3. Talk to the AI Interviewer using your microphone.
 4. The interviewer asks questions using Gemini-generated content and Vapi's voice interaction.
-
----
-
-## 📸 Screenshots
-
-| Interview Dashboard | Interview Session |
-|---------------------|------------------|
-| ![Dashboard](./assets/dashboard.png) | ![Session](./assets/interview-session.png) |
-
----
-
-## Working Structure
-https://app.eraser.io/workspace/kSBfnEmw1TN4fjKCGT0k?origin=share
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📃 License
-
-MIT License
-
----
-
-## 📫 Contact
-
-For queries or collaborations:
-
-- **Surakanth Swamy**  
-- 📧 surakanthswamy@example.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/surakanthswamy)
